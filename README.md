@@ -5,7 +5,7 @@ yolov1学习
 ## loss
 !(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/train_loss.svg)
 
-##Result
+## Result
 !(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot_18.06.2020.png)
 !(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot2.png)
 !(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot3.png)
