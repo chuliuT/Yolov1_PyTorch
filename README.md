@@ -6,8 +6,8 @@ yolov1学习
 !(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/train_loss.svg)
 
 ## Result
-!(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot_18.06.2020.png)
-!(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot2.png)
-!(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot3.png)
-!(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot4.png)
-!(https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot5.png)
+![](https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot_18.06.2020.png)
+![](https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot2.png)
+![](https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot3.png)
+![](https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot4.png)
+![](https://github.com/chuliuT/Yolov1_PyTorch/blob/master/figs/bbox_screenshot5.png)
